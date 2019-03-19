@@ -1,0 +1,10 @@
+/*changes the color of the background blue*/
+body{
+    background: blue;
+}
+/*changes color of text and places it in the center of the screen*/
+h1{
+    margin-top: 25%;
+    text-align: center;
+    color: red;
+}
